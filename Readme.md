@@ -1,4 +1,4 @@
-# ZATCA SDK Installation Guide for ARM-based MacBooks (M1/M2)
+# ZATCA SDK Installation Guide for ARM-based MacBooks (M1/M2/M3/M4)
 
 **Current SDK Version: 3.4.0**
 
